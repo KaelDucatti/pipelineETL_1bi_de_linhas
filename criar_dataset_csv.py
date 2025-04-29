@@ -61,5 +61,5 @@ def gerar_dados_teste(num_registros):
 
 
 if __name__ == "__main__":
-    num_registros = 10_000_000
+    num_registros = 1_000_000
     gerar_dados_teste(num_registros)
